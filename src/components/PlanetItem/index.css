@@ -1,0 +1,29 @@
+.list-type-plants {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+}
+
+.image-url-plants {
+  width: 350px;
+}
+
+.name-heading {
+  color: #f8fafc;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+
+.name-description {
+  color: #f1f5f9;
+  font-size: 13px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.heading-planets {
+  color: #05acff;
+}
